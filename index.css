@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: linear-gradient(to bottom,#035CA7,#FBFAE3);
+    width: 1920px;
+    height: 1080px;
+}
+p{
+    display: flex;
+    font-size: 100px;
+}
