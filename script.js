@@ -1,8 +1,8 @@
 function bodyClick(){
-    window.location.href = 'html/signup.html';
+    window.location.href = 'signup.html';
 }
 
 
 function bodyClick2(){
-    window.location.href = 'html/signupsuccess.html';
+    window.location.href = 'signupsuccess.html';
 }
